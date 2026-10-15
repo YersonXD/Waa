@@ -1,0 +1,6 @@
+{
+  "name": "Perdón, Alexandra",
+  "description": "Una carta y mensaje especial de perdón con sinceridad y respeto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
